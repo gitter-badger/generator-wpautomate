@@ -1,4 +1,6 @@
 # generator-wpautomate [![NPM version][npm-image]][npm-url][![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Join the chat at https://gitter.im/developer-prosenjit/generator-wpautomate](https://badges.gitter.im/developer-prosenjit/generator-wpautomate.svg)](https://gitter.im/developer-prosenjit/generator-wpautomate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > 
 
 ## Installation
